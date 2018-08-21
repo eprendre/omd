@@ -1,1 +1,1 @@
-# omd
+# osu!MapDownloader release
